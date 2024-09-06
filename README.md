@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/palchandu/palchandu/56cfee8f9e6556e87acd70e75d858b655fd1bea7/Chandra%20Prakash%20pal.png" alt="Banner" align="center"  /></p>
 <h1 align="center">Hi 👋, I'm Chandra Prakash Pal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
